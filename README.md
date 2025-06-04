@@ -177,6 +177,10 @@ https://drive.google.com/file/d/1mZoF0Jhr3T0AVWbHNPzgqTb09ZR6D4fQ/view?usp=drive
 # 📌 Diagrama de atividades
 ![Fluxograma](https://github.com/user-attachments/assets/996f00e9-0d28-47b2-9b40-07000a70c06b)
 
+## ✅ Atualização
+![Sem título](https://github.com/user-attachments/assets/8ac2c20f-765c-4f94-b356-3836b9faf387)
+
+
 # 📌 Miro_diagrama
 https://miro.com/welcomeonboard/amk2bDU1TFIreGtNdHhGUnJTWWhzTUNFd3g3OEhjL0NKNWdzRlZkNlhkQWovSmg0Y0pHT2V0SGZoVi9weG5ObzZ1VnlmdEF1VVQyUzY0azN2cUU5OWc2N3h0TzllT1B4UXZqcGRXazFYdWRVUi9lWkt6QWw2UlZrZlFrc2NYVmRzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=758937301885
 
